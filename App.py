@@ -3,7 +3,7 @@ from groq import Groq
 
 st.set_page_config("PragyanAI Content Generator", layout="wide")
 st.title("PragyanAI – Content Generator")
-st.image("PragyanAI_Transperent.jpg")
+st.image("king-virat-kohli-hd-art-b2ulryvxkkh2bxla (2).jpg")
 # Get GROQ API Key
 client = Groq(api_key=st.secrets["groq_api_key"])
 # Get Product Name and Audience for That Product
