@@ -24,5 +24,5 @@ if st.button("Generate Content"):
             file_name="marketing_copy.txt",
             mime="text/plain"
         )
-    else:
+ else:
         st.info("Generate content first")
